@@ -46,5 +46,6 @@
     "quotmark": "single",
     "trailing": true,
     "unused": true
-  }
+  },
+  "types": "index.d.ts"
 }
